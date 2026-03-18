@@ -1,0 +1,20 @@
+# Compiled objects
+*.o
+
+# Executables
+vshell/vshell
+vparser/vparser
+vdb/vdb
+
+# Database files
+*.db
+
+# Editor / OS junk
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Temp
+temp/
